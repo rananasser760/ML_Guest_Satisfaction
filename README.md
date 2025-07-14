@@ -5,7 +5,7 @@
 This project aims to **analyze Airbnb listings data** and build **two machine learning models**:
 
 - **Regression**: Predict the **review_scores_rating** of a listing.
-- **Classification**: Predict the **guest satisfaction label** (e.g., Satisfied / Unsatisfied).
+- **Classification**: Predict the **guest satisfaction label** (Average , High , very_High).
 
 ---
 
